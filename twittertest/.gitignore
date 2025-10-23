@@ -1,0 +1,11 @@
+# IMPORTANT: Never commit API keys
+Config.swift
+Config/Config.swift
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# macOS
+.DS_Store
